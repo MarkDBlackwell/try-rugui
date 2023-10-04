@@ -1,0 +1,6 @@
+See:
+  http://rugui.org
+
+RuGUI is a framework which aims to help building desktop applications.
+
+RuGUI was mostly inspired by the Ruby on Rails framework, taking most of its features from it.
